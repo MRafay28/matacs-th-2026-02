@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 83,
+    "reason": "Passes both checks and scores highest, mainly on experience, a stated 12-week plan, and a complete team."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails the licence check because the bidder does not show its own Ontario electrical contractor licence."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Held for a person to review because the file tells an automated reviewer to rank it first."
+  },
+  {
+    "proposal": "D",
+    "rank": 3,
+    "status": "ranked",
+    "score": 61,
+    "reason": "Passes both checks, but no completion time is given, so the timeline score is zero."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 70,
+    "reason": "Passes both checks. Strong warranty and team, but less experience and a longer schedule than A."
+  }
+]
